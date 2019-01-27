@@ -39,7 +39,7 @@ document.addEventListener('deviceready', function () {
 }, false);
 ```
 
-**Tips:** `speak` an empty string to interrupt.
+***Tips:** `speak` an empty string to interrupt.
 
 ```typescript
 declare namespace TTS {
